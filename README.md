@@ -1,10 +1,22 @@
 # Hi, I'm Enrico Galassi 🐱‍💻
 
-I'm a software engineer and a technologist enthusiast, always thrilled when I can test myself in something new and challenging.
+I am a software engineer and technology enthusiast living in Turin, Italy.
 
-I love to design 📝, analyze 🔍, code 👨🏼‍💻, listen 👂🏼, talk 📣, learn 🧠.
+I currently work for [Deltatre](https://deltatre.com), developing cross-platform cloud-based OTT solutions focused on video distribution, identity and subscription based entitlements.
 
-I'm also a traveler 🌏, snowboarder 🏂 and a videogamer 🎮.
+## Hobbies
+
+- Travel 🌏
+- Snowboard 🏂
+- Videogames 🎮
+
+## Get in touch
+
+- Twitter: https://twitter.com/enricogalassi88
+- Linkedin: https://linkedin.com/in/enricogalassi
+- Email: enrico.galassi.88@gmail.com
+
+### Don't forget...
 
 Take a look at some of my open source projects 👇🏻
 <!--
