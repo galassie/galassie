@@ -4,6 +4,9 @@ I am a software engineer and technology enthusiast living in Turin, Italy.
 
 I currently work for [Deltatre](https://deltatre.com), developing cross-platform cloud-based OTT solutions focused on video distribution, identity and subscription based entitlements.
 
+On my daily work, I use ASP.NET Core, Redis, Docker, Kubernetes, Azure.  
+On my spare time, I tend to get out of my comfort zone.
+
 ## Hobbies
 
 - Travel 🌏
