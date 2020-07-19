@@ -1,4 +1,4 @@
-# Hi there, I'm Enrico Galassi 🐱‍💻
+# Hi, I'm Enrico Galassi 🐱‍💻
 
 I'm a software engineer and a technologist enthusiast, always thrilled when I can test myself in something new and challenging.
 
