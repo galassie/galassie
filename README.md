@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Enrico Galassi 🐱‍💻
 
+I'm a software engineer and a technologist enthusiast, always thrilled when I can test myself in something new and challenging.
+
+I love to design 📝, analyze 🔍, code 👨🏼‍💻, listen 👂🏼, talk 📣, learn 🧠.
+
+I'm also a traveler 🌏, snowboarder 🏂 and a videogamer 🎮.
+
+Take a look at some of my open source projects 👇🏻
 <!--
 **galassie/galassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
