@@ -2,9 +2,9 @@
 
 I am a software engineer and technology enthusiast living in Turin, Italy.
 
-I currently work for [Deltatre](https://deltatre.com), developing cross-platform cloud-based OTT solutions focused on video distribution, identity and subscription based entitlements.
+I currently work for [Prima](https://www.prima.it) as a full-stack developer.
 
-On my daily work, I use ASP.NET Core, Redis, Docker, Kubernetes, Azure.  
+On my daily work, I use Elixir, Rust, Elm, React, Docker, AWS.  
 On my spare time, I tend to get out of my comfort zone.
 
 ## Hobbies
