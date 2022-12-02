@@ -1,6 +1,6 @@
 # Hi, I'm Enrico Galassi 🐱‍💻
 
-I am a software engineer and technology enthusiast living in Turin, Italy.
+I am a software engineer and technology enthusiast living in Bologna, Italy.
 
 I currently work for [Prima](https://www.prima.it) as a full-stack developer.
 
