@@ -15,8 +15,6 @@ On my spare time, I mostly use my favourite programming languae: F#.
 
 ## Get in touch
 
-- Twitter: https://twitter.com/enricogalassi88
-- Linkedin: https://linkedin.com/in/enricogalassi
 - Email: enrico.galassi.88@gmail.com
 
 ### Don't forget...
