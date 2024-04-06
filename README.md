@@ -4,13 +4,13 @@ I am a software engineer and technology enthusiast living in Bologna, Italy.
 
 I currently work for [Prima](https://www.prima.it) as a full-stack developer.
 
-On my daily work, I use Elixir, Rust, Elm, React, Docker, AWS.  
-On my spare time, I mostly use my favourite programming languae: F#.
+On my daily work, I use Rust, Elm, React, Docker, Pulumi, AWS.  
+On my spare time, I do random projects in F# and learn game development in Unity.
 
 ## Hobbies
 
 - Travel 🌏
-- Snowboard 🏂
+- Sport ⛹️‍♂️⛹️‍♀️
 - Videogames 🎮
 
 ## Get in touch
